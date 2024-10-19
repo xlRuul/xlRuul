@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy xlRuul</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/3Wqw8M6">
+<img src="https://i.imgur.com/5JiHdnM.png">
 
 
 
